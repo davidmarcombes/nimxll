@@ -1,0 +1,7 @@
+nimcache/
+nimblecache/
+htmldocs/
+bin/
+# Workaround to ignore binaries in tests folder
+tests/*
+tests/!*.nim*
